@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Movie Jetpack Compose</string>
+    <string name="home_nav_title">Home</string>
+    <string name="about_nav_title">About</string>
+    <string name="movie_item_creator">Creator</string>
+    <string name="user_score_percentage">%d%%</string>
+    <string name="user_score_text">User Score</string>
+    <string name="overview_text">Overview</string>
+    <string name="project_owner_email">richard.herew@gmail.com</string>
+    <string name="project_owner_name">Richard</string>
+    <string name="search_bar_placeholder_text">Search for a movie</string>
+    <string name="no_movie_found_text">No movie found</string>
+    <string name="favorite_nav_title">Favorites</string>
+    <string name="add_to_favorite_fab_content_desc">add to favorite</string>
+    <string name="top_bar_back_icon_content_desc">back</string>
+    <string name="remove_from_favorite_fab_content_desc">remove from favorite</string>
+    <string name="add_to_favorite_snackbar_text">Movie added to your favorite list</string>
+    <string name="ok_snackbar_text">OK</string>
+    <string name="remove_from_favorite_snackbar_text">Movie removed from your favorite list</string>
+    <string name="error_section_text">There was an error in loading the page</string>
+    <string name="search_icon_content_desc">search</string>
+</resources>
